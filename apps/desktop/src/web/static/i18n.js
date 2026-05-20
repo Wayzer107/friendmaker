@@ -1,7 +1,7 @@
 const LANGUAGE_STORAGE_KEY = "friend-maker.language";
 const SOURCE_LANGUAGE = "zh-CN";
-const DEFAULT_LANGUAGE = ENGLISH_LANGUAGE;
 const ENGLISH_LANGUAGE = "en";
+const DEFAULT_LANGUAGE = ENGLISH_LANGUAGE;
 const TEMPLATE_LABELS_EN = {
   "无模板（正方形）": "No template (square)",
   "无袖背心": "Sleeveless top",
